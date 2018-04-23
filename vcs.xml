@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/CEByrdComputerScience/trading-card-project-treysikes14.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CEByrdComputerScience/elevens-treysikes14.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ceb-stAFF\IdeaProjects\trading-card-project-treysikes14\src" />
+    <option name="cloneParentDir" value="C:\Users\ceb-stAFF\IdeaProjects" />
   </component>
 </application>
